@@ -1,0 +1,9 @@
+header {
+  background-color: teal;
+}
+header .container .header {
+  padding: 15px 0;
+}
+header .container .header h1 {
+  color: white;
+}/*# sourceMappingURL=index.css.map */
