@@ -1,5 +1,5 @@
 import React from 'react'
-import Tbale from '../../components/table'
+import Tbale from '../../assets/components/table'
 import "./index.scss"
 const Home = ({users}) => {
     
