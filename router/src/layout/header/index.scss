@@ -1,0 +1,24 @@
+header {
+  background-color: rgb(53, 105, 53);
+  .container {
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      color: white;
+      padding: 1.5rem 0;
+      nav {
+        ul {
+          display: flex;
+          align-items: center;
+          gap: 2rem;
+          li {
+            a {
+              color: white;
+            }
+          }
+        }
+      }
+    }
+  }
+}

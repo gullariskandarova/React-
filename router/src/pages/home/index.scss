@@ -1,0 +1,19 @@
+#home {
+  padding: 10rem 0;
+  background: linear-gradient(
+    336deg,
+    rgba(0, 0, 255, 0.8),
+    rgba(0, 0, 255, 0) 70.71%
+  );
+  .home {
+    display: flex;
+    justify-content: center;
+    img {
+      width: 200px;
+      height: 200px;
+      position: relative;
+      top: 100px;
+      right: 100px;
+    }
+  }
+}
